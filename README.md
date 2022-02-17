@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddmorrison
-- 👀 I’m interested in changing my career from teaching to full stack developement.
+- 👀 I’m interested in changing my career from teaching to front end stack developement.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...danidelemorr@gmail.com

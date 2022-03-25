@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddmorrison
-- 👀 I’m interested in changing my career from teaching to front end development.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in changing my career from teaching to front end development and ux design.
+- 🌱 I’m currently learning node.js, JavaScript, Adobe tools.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...danidelemorr@gmail.com
 
